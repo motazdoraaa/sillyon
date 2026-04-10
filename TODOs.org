@@ -1,0 +1,10 @@
+#+TITLE: Beaut TODOs
+
+* TODO Double values aren't recognizable (e.g. 4.5 being processed as 4).
+* TODO Images should be sorted according to the sorting number ascendingly (i.e value with 0 indicates that this image item should come first). The sorting values are in the DB column.
+* TODO Adding scheduling API. User should be able to schedule the order to his/her desired date.
+* TODO Wallet should be updated automatically
+* TODO Adding the capability to adjust price per kilomaters.
+* TODO Notification.
+* TODO Adding anther option to use Visa machine alongside with Visa and Cash.
+* TODO Reverse deletion bug on MP3 files.

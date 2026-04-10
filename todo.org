@@ -1,0 +1,20 @@
+#+TITLE: Beaut TODOs
+   
+** Published
+** DONE/HOLD
+*** DONE Double values aren't recognizable (e.g. 4.5 being processed as 4).
+Works fine, decimal/double values can be added using keyboard input.
+*** DONE Images should be sorted according to the sorting number ascendingly (i.e value with 0 indicates that this image item should come first). The sorting values are in the DB column.
+*** DONE Fix disabled functionality from the side bar. Add enballing button.
+**** DONE Multimedia Fix
+*** HOLD Reverse deletion bug on MP3 files.
+*** HOLD Adding the capability to adjust price per kilomaters.
+*** HOLD Wallet should be updated automatically
+** TODOs
+*** TODO Adding anther option to use Visa machine alongside with Visa and Cash.
+*** TODO Adding scheduling API. User should be able to schedule the order to his/her desired date.
+*** TODO Notification.
+** Notes
+- Naming is inconvenient.
+- Controls routing must be applied.
+- Lots of repeate models (e.g. ~Us)
